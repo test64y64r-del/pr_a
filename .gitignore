@@ -1,0 +1,23 @@
+# محیط مجازی
+myenv/
+venv/
+env/
+
+# فایل‌های پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
+
+# تنظیمات IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# متغیرهای محیطی
+.env
